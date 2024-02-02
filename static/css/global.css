@@ -241,6 +241,7 @@ body {
     }
 
     .encriptador {
+        width: 10rem; 
         height: 20rem; 
         padding: 0.6rem;
     }
